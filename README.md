@@ -1,1 +1,3 @@
-# Artificial-Intelligence-MDP_Algorithm-
+# *Artificial Intelligence By EExample - Denis Rothman
+
+## Artificial-Intelligence-MDP_Algorithm-
